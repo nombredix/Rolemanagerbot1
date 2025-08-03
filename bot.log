@@ -1,0 +1,122 @@
+2025-08-03 04:38:12,551 - __main__ - ERROR - Failed to start bot: DISCORD_TOKEN environment variable is required
+2025-08-03 04:38:12,551 - __main__ - ERROR - Unexpected error: DISCORD_TOKEN environment variable is required
+2025-08-03 04:38:28,926 - __main__ - ERROR - Failed to start bot: DISCORD_TOKEN environment variable is required
+2025-08-03 04:38:28,927 - __main__ - ERROR - Unexpected error: DISCORD_TOKEN environment variable is required
+2025-08-03 04:52:11,283 - config - INFO - Configuration loaded successfully
+2025-08-03 04:52:11,283 - config - INFO - Configuration loaded successfully
+2025-08-03 04:52:11,283 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 04:52:11,283 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 04:52:11,283 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 04:52:11,283 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 04:52:11,283 - config - INFO - Command Prefix: !
+2025-08-03 04:52:11,283 - config - INFO - Command Prefix: !
+2025-08-03 04:52:11,284 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 04:52:11,284 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 04:52:11,284 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 04:52:11,284 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 04:52:11,284 - discord.client - INFO - logging in using static token
+2025-08-03 04:52:11,284 - discord.client - INFO - logging in using static token
+2025-08-03 04:52:11,893 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-03 04:52:11,895 - __main__ - ERROR - Unexpected error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-03 04:52:11,904 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f9e5a576660>, 118114.990371821)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f9e5b084fd0>
+2025-08-03 04:52:11,969 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-03 04:52:11,970 - __main__ - ERROR - Unexpected error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-03 04:56:06,772 - config - INFO - Configuration loaded successfully
+2025-08-03 04:56:06,772 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 04:56:06,772 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 04:56:06,772 - config - INFO - Command Prefix: !
+2025-08-03 04:56:06,772 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 04:56:06,773 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 04:56:06,773 - discord.client - INFO - logging in using static token
+2025-08-03 04:56:07,396 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-03 04:56:07,397 - __main__ - ERROR - Unexpected error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-08-03 04:56:07,410 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f0fddbee660>, 118350.497177611)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f0fdebb39d0>
+2025-08-03 04:59:49,626 - config - INFO - Configuration loaded successfully
+2025-08-03 04:59:49,626 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 04:59:49,626 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 04:59:49,627 - config - INFO - Command Prefix: !
+2025-08-03 04:59:49,627 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 04:59:49,627 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 04:59:49,627 - discord.client - INFO - logging in using static token
+2025-08-03 04:59:50,167 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 231735df9509ea12bad3f535bf17331a).
+2025-08-03 04:59:52,173 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 04:59:52,173 - bot - INFO - Bot is in 1 guilds
+2025-08-03 04:59:52,274 - bot - INFO - Synced 0 command(s)
+2025-08-03 05:01:01,578 - bot - ERROR - Command error: Command "verify" is not found
+2025-08-03 05:01:32,300 - bot - ERROR - Command error: Command "verify" is not found
+2025-08-03 05:01:58,666 - bot - ERROR - Command error: Command "verify" is not found
+2025-08-03 05:02:12,872 - config - INFO - Configuration loaded successfully
+2025-08-03 05:02:12,872 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 05:02:12,872 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 05:02:12,872 - config - INFO - Command Prefix: !
+2025-08-03 05:02:12,873 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 05:02:12,873 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 05:02:12,873 - discord.client - INFO - logging in using static token
+2025-08-03 05:02:13,212 - bot - INFO - Bot setup hook called - commands should be loaded
+2025-08-03 05:02:13,413 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: eed697dd72d1870f59aaff4975141ca8).
+2025-08-03 05:02:15,419 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 05:02:15,420 - bot - INFO - Bot is in 1 guilds
+2025-08-03 05:02:15,509 - bot - INFO - Synced 0 slash command(s)
+2025-08-03 05:02:15,509 - bot - INFO - Available text commands: []
+2025-08-03 05:02:45,674 - config - INFO - Configuration loaded successfully
+2025-08-03 05:02:45,674 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 05:02:45,674 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 05:02:45,674 - config - INFO - Command Prefix: !
+2025-08-03 05:02:45,674 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 05:02:45,675 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 05:02:45,675 - discord.client - INFO - logging in using static token
+2025-08-03 05:02:46,000 - bot - INFO - Bot setup hook called - commands should be loaded
+2025-08-03 05:02:46,206 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d65d45c458a474dbbf3ce43a5d5324da).
+2025-08-03 05:02:48,215 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 05:02:48,215 - bot - INFO - Bot is in 1 guilds
+2025-08-03 05:02:48,311 - bot - INFO - Synced 0 slash command(s)
+2025-08-03 05:02:48,311 - bot - INFO - Available text commands: []
+2025-08-03 05:03:37,858 - config - INFO - Configuration loaded successfully
+2025-08-03 05:03:37,858 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 05:03:37,858 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 05:03:37,858 - config - INFO - Command Prefix: !
+2025-08-03 05:03:37,859 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 05:03:37,859 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 05:03:37,859 - discord.client - INFO - logging in using static token
+2025-08-03 05:03:38,527 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d608c71c1e63318e03bfc3d805a7d6eb).
+2025-08-03 05:03:40,533 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 05:03:40,533 - bot - INFO - Bot is in 1 guilds
+2025-08-03 05:03:40,534 - bot - INFO - Available text commands: []
+2025-08-03 05:23:40,490 - config - INFO - Configuration loaded successfully
+2025-08-03 05:23:40,491 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 05:23:40,491 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 05:23:40,491 - config - INFO - Command Prefix: !
+2025-08-03 05:23:40,492 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 05:23:40,492 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 05:23:40,492 - discord.client - INFO - logging in using static token
+2025-08-03 05:23:41,172 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cc120560319feaf6c8034959cbe15ef5).
+2025-08-03 05:23:43,180 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 05:23:43,180 - bot - INFO - Bot is in 1 guilds
+2025-08-03 05:23:43,180 - bot - INFO - Available text commands: []
+2025-08-03 05:31:15,751 - config - INFO - Configuration loaded successfully
+2025-08-03 05:31:15,751 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 05:31:15,751 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 05:31:15,751 - config - INFO - Command Prefix: !
+2025-08-03 05:31:15,752 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 05:31:15,752 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 05:31:15,752 - discord.client - INFO - logging in using static token
+2025-08-03 05:31:16,405 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 760aaee33bbd7bd769436ca761544ba0).
+2025-08-03 05:31:18,411 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 05:31:18,411 - bot - INFO - Bot is in 1 guilds
+2025-08-03 05:31:18,411 - bot - INFO - Available text commands: []
+2025-08-03 05:51:54,933 - config - INFO - Configuration loaded successfully
+2025-08-03 05:51:54,938 - config - INFO - Entry Role ID: 1401222901205700849
+2025-08-03 05:51:54,938 - config - INFO - Verified Role ID: 1401222619482820670
+2025-08-03 05:51:54,938 - config - INFO - Command Prefix: !
+2025-08-03 05:51:54,939 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 05:51:54,939 - __main__ - INFO - Starting Discord Verification Bot...
+2025-08-03 05:51:54,939 - discord.client - INFO - logging in using static token
+2025-08-03 05:52:00,011 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-08-03 05:52:05,222 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 48638326542713d95490a59217e5babe).
+2025-08-03 05:52:07,228 - bot - INFO - Moreaa#9502 has connected to Discord!
+2025-08-03 05:52:07,228 - bot - INFO - Bot is in 1 guilds
+2025-08-03 05:52:07,229 - bot - INFO - Available text commands: []
